@@ -1,3 +1,3 @@
 
-rootProject.name = "CustomLibrarySample"
+rootProject.name = "hello-world"
 

@@ -1,6 +1,6 @@
-package helloWorld
+package org.example
 
-class HelloWorldLib(
+class HelloWorld(
     private val name: String
 ) {
     fun print() = println("Hello World, $name !")
